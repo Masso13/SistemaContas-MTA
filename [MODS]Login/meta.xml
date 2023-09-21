@@ -1,0 +1,20 @@
+<meta>
+    <script src="shared.lua" type="shared"/>
+    <script src="scriptS.lua" type="server"/>
+    <script src="scriptC.lua" type="client"/>
+
+    <file src="frames/background.png"/>
+    <file src="frames/frameButton.png"/>
+    <file src="frames/framePerson.png"/>
+    <file src="frames/frameLife.png"/>
+
+    <file src="frames/fundo1.png"/>
+    <file src="frames/fundo2.png"/>
+    <file src="frames/fundo3.png"/>
+    <file src="frames/fundo4.png"/>
+    <file src="frames/fundo5.png"/>
+    <file src="frames/fundo6.png"/>
+    <file src="frames/fundo7.png"/>
+    <file src="frames/fundo8.png"/>
+    <file src="frames/fundo9.png"/>
+</meta>
